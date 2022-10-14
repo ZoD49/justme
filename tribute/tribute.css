@@ -1,0 +1,19 @@
+*{
+    margin: 5px;
+    background-color: bisque;
+    flex: 1;
+}
+.head{
+    display: flow-root;
+    text-align: center;
+    align-content: center;  
+}
+.content{
+    margin: auto;
+}
+.footer{
+    background-color: black;
+    flex-flow: wrap;
+    text-align: center;
+    display: flex;
+}
